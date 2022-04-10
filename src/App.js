@@ -9,11 +9,19 @@ export default function App() {
         <Weather />
         <footer>
           This project was coded by{" "}
-          <a href="https://www.indriasariphotography.com" target={"_blank"}>
+          <a
+            href="https://www.indriasariphotography.com"
+            target={"_blank"}
+            rel="noreferrer"
+          >
             Tessa
           </a>{" "}
           and is {""}
-          <a href="https://reactweathersearchapp.netlify.app/" target="_blank">
+          <a
+            href="https://reactweathersearchapp.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             open-sourced on Github
           </a>
         </footer>
