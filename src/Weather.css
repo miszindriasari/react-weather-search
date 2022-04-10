@@ -1,5 +1,7 @@
 .Weather {
-  border: 1px solid chocolate;
-  background-color: red;
-  color: white;
+  border: 2px solid rgb(194, 0, 0);
+  background-color: rgba(105, 75, 158, 0.488);
+  color: rgb(0, 0, 0);
+  margin: 30px;
+  padding: 10px;
 }
